@@ -1,0 +1,36 @@
+[
+  {
+    "values": [
+      {
+        "id": "5321",
+        "title": "Confidentiality",
+        "value": "failed"
+      },
+      {
+        "id": "5321",
+        "title": "Integrity",
+        "value": "failed"
+      }
+    ],
+    "id": "122",
+    "title": "Security test",
+    "value": "failed"
+  },
+  {
+    "values": [
+      {
+        "id": "4321",
+        "title": "Confidentiality",
+        "value": "passed"
+      },
+      {
+        "id": "4322",
+        "title": "Integrity",
+        "value": "passed"
+      }
+    ],
+    "id": "155",
+    "title": "Security test sad",
+    "value": "passed"
+  }
+]
